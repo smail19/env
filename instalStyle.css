@@ -1,0 +1,45 @@
+
+
+
+#instal .container {
+	   
+    	background-color: #E8E8E8;
+    	height: auto;
+	    width: 100%; 
+        align-items: center;
+        justify-content: center;
+    }
+    #instal .flex-content{
+       display: flex;
+	   flex-direction: column;
+	   flex-shrink: 1;
+	   flex-grow: 1;
+    }
+ #instal .text{
+     margin-left: auto;
+     margin-right:auto;
+     padding: 40px;
+ 	background-color: white;
+ 	text-align: center;
+ 	width: 90%;
+ }
+ #instal img{
+ 	margin-top: 60px;
+ }
+ #instal h1{
+ 	font-size: 40px;
+ }
+
+@media only screen and (min-width: 1200px) {
+     #instal .text{
+     margin-left: auto;
+     margin-right:auto;
+     padding: 40px 200px 60px 200px;
+ 	background-color: white;
+ 	text-align: center;
+ 	width: 90%;
+ }
+    
+
+
+	}
