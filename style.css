@@ -453,8 +453,7 @@ p {
 	width: 400px;
 }
 #contact .contact-item {
-	  background-image: linear-gradient(to bottom right, #20DF90, #154F31);
-	
+	background-image: linear-gradient(to bottom right, #20DF90, #154F31);
 	width: 80%;
 	padding: 20px;
 	text-align: center;
